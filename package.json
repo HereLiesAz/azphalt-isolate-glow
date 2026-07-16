@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.isolate.glow",
+    "version":  "1.0.0",
+    "description":  "Isolates the subject and pushes brightness and contrast to create a pop effect.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
